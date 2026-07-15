@@ -12,7 +12,7 @@ This library is generated using the [OpenMoji](https://openmoji.org) vector grap
 
 ## Emoji Sheet
 
-![](./emoji_catalog.cropped.png)
+[here](https://github.com/kawaCat/lilypond-emoji/blob/main/emoji_catalog.cropped.png)
 
 ## License 
 
