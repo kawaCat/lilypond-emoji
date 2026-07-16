@@ -28,7 +28,7 @@
 \new Score{
     \new Staff{
         \relative c'' { 
-            <g c>2^> -\markup{ \translate #'(-1.0 . 0.0){ \scale #'(1.0 . 1.0 ){ \with-color #red \telephoneFill }}}
+            <g c>2^> -\markup{ \translate #'(-1.0 . 0.0){ \scale #'(1.0 . 1.0 ){ \with-color #red \sneezingFace }}}
             ~ 
             <g c>2 
         }
