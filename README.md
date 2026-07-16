@@ -8,11 +8,11 @@ This library is generated using the [OpenMoji](https://openmoji.org) vector grap
 
 ## Example
 
-![](example/example.cropped.png)
+![](./example/example.cropped.png)
 
 ## Emoji Sheet
 
-![](./emoji_catalog.cropped.png)
+![](./example/emoji_catalog.cropped.png)
 
 ## License 
 
